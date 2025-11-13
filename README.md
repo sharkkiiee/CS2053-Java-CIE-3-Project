@@ -37,9 +37,6 @@ java Game
 - `help`
 - `quit`
 
-## Team & Contributions
-- Rakshana M: Game loop, input parsing, Player & Room classes, presentation
-- Sachit Sunil: Item hierarchy, Enemy & combat logic, story content, testing
 
 ## Git workflow suggestion
 1. Create repo on GitHub and clone locally.
